@@ -1,0 +1,7 @@
+C:\Users\usuario\Desktop\GUIA DE EJERCICIOS PED 07 T\EJERCICIO 2\EJERCICIO 2\bin\Debug\EJERCICIO 2.exe.config
+C:\Users\usuario\Desktop\GUIA DE EJERCICIOS PED 07 T\EJERCICIO 2\EJERCICIO 2\bin\Debug\EJERCICIO 2.exe
+C:\Users\usuario\Desktop\GUIA DE EJERCICIOS PED 07 T\EJERCICIO 2\EJERCICIO 2\bin\Debug\EJERCICIO 2.pdb
+C:\Users\usuario\Desktop\GUIA DE EJERCICIOS PED 07 T\EJERCICIO 2\EJERCICIO 2\obj\Debug\EJERCICIO 2.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\GUIA DE EJERCICIOS PED 07 T\EJERCICIO 2\EJERCICIO 2\obj\Debug\EJERCICIO 2.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\GUIA DE EJERCICIOS PED 07 T\EJERCICIO 2\EJERCICIO 2\obj\Debug\EJERCICIO 2.exe
+C:\Users\usuario\Desktop\GUIA DE EJERCICIOS PED 07 T\EJERCICIO 2\EJERCICIO 2\obj\Debug\EJERCICIO 2.pdb

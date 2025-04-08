@@ -1,0 +1,7 @@
+C:\Users\usuario\Desktop\GUIA DE EJERCICIOS PED 07 T\EJERCICIO 3.0\EJERCICIO 3.0\bin\Debug\EJERCICIO 3.0.exe.config
+C:\Users\usuario\Desktop\GUIA DE EJERCICIOS PED 07 T\EJERCICIO 3.0\EJERCICIO 3.0\bin\Debug\EJERCICIO 3.0.exe
+C:\Users\usuario\Desktop\GUIA DE EJERCICIOS PED 07 T\EJERCICIO 3.0\EJERCICIO 3.0\bin\Debug\EJERCICIO 3.0.pdb
+C:\Users\usuario\Desktop\GUIA DE EJERCICIOS PED 07 T\EJERCICIO 3.0\EJERCICIO 3.0\obj\Debug\EJERCICIO 3.0.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\GUIA DE EJERCICIOS PED 07 T\EJERCICIO 3.0\EJERCICIO 3.0\obj\Debug\EJERCICIO 3.0.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\GUIA DE EJERCICIOS PED 07 T\EJERCICIO 3.0\EJERCICIO 3.0\obj\Debug\EJERCICIO 3.0.exe
+C:\Users\usuario\Desktop\GUIA DE EJERCICIOS PED 07 T\EJERCICIO 3.0\EJERCICIO 3.0\obj\Debug\EJERCICIO 3.0.pdb
